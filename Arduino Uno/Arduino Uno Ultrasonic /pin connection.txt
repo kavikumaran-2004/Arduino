@@ -1,0 +1,8 @@
+pin Connection 
+Arduino Uno        Ultrasonic sensor
+5V                  VCC
+GND                GND
+D9                  TRIGGER
+D10                 ECHO
+
+connect the pin as per the connection details
